@@ -13,6 +13,7 @@ function App() {
     const dispatch = useDispatch();
       
     useEffect(()=>{
+      console.log('this is window', window)
       dispatch(getPosts());
     });
 

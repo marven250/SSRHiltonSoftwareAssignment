@@ -7,7 +7,7 @@ import Pagination from '../Pagination/Pagination';
 import {getPosts } from '../../actions/posts';
 
 
-const Posts = ({ setSearchBoolean})=>{
+const Posts = ()=>{
     const volcanoes = useSelector((state)=> state.posts);
     const classes = useStyles();
     const [currentPage, setCurrentPage] = useState(1);
@@ -23,7 +23,7 @@ const Posts = ({ setSearchBoolean})=>{
            <Grid className= {classes.containter} container alignItems='stretch' spacing='5'>
                {currentVolcanoes.map((volcano)=>(
                    <Grid key={volcano._id} item xs={12} sm={6}>
-                       <Post getPosts={getPosts} setSearchBoolean= {setSearchBoolean} volcano={volcano}  />
+                       <Post getPosts={getPosts} volcano={volcano}  />
                    </Grid>
 
                ))}

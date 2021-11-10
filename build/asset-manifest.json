@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/hiltonSoftwareAssignmentClient/static/css/main.eb7a9660.chunk.css",
-    "main.js": "/hiltonSoftwareAssignmentClient/static/js/main.746eaecd.chunk.js",
-    "main.js.map": "/hiltonSoftwareAssignmentClient/static/js/main.746eaecd.chunk.js.map",
-    "runtime-main.js": "/hiltonSoftwareAssignmentClient/static/js/runtime-main.57d43ead.js",
-    "runtime-main.js.map": "/hiltonSoftwareAssignmentClient/static/js/runtime-main.57d43ead.js.map",
-    "static/js/2.ef993c29.chunk.js": "/hiltonSoftwareAssignmentClient/static/js/2.ef993c29.chunk.js",
-    "static/js/2.ef993c29.chunk.js.map": "/hiltonSoftwareAssignmentClient/static/js/2.ef993c29.chunk.js.map",
-    "static/js/3.89f24738.chunk.js": "/hiltonSoftwareAssignmentClient/static/js/3.89f24738.chunk.js",
-    "static/js/3.89f24738.chunk.js.map": "/hiltonSoftwareAssignmentClient/static/js/3.89f24738.chunk.js.map",
-    "index.html": "/hiltonSoftwareAssignmentClient/index.html",
-    "static/css/main.eb7a9660.chunk.css.map": "/hiltonSoftwareAssignmentClient/static/css/main.eb7a9660.chunk.css.map",
-    "static/js/2.ef993c29.chunk.js.LICENSE.txt": "/hiltonSoftwareAssignmentClient/static/js/2.ef993c29.chunk.js.LICENSE.txt",
-    "static/media/VolcanoErupt.7107718b.png": "/hiltonSoftwareAssignmentClient/static/media/VolcanoErupt.7107718b.png",
-    "static/media/volcano.9fa67366.png": "/hiltonSoftwareAssignmentClient/static/media/volcano.9fa67366.png"
+    "main.css": "./static/css/main.2465090b.chunk.css",
+    "main.js": "./static/js/main.0cea8207.chunk.js",
+    "main.js.map": "./static/js/main.0cea8207.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.af88b5ec.js",
+    "runtime-main.js.map": "./static/js/runtime-main.af88b5ec.js.map",
+    "static/js/2.40faf8bb.chunk.js": "./static/js/2.40faf8bb.chunk.js",
+    "static/js/2.40faf8bb.chunk.js.map": "./static/js/2.40faf8bb.chunk.js.map",
+    "static/js/3.17301fae.chunk.js": "./static/js/3.17301fae.chunk.js",
+    "static/js/3.17301fae.chunk.js.map": "./static/js/3.17301fae.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.2465090b.chunk.css.map": "./static/css/main.2465090b.chunk.css.map",
+    "static/js/2.40faf8bb.chunk.js.LICENSE.txt": "./static/js/2.40faf8bb.chunk.js.LICENSE.txt",
+    "static/media/VolcanoErupt.7107718b.png": "./static/media/VolcanoErupt.7107718b.png",
+    "static/media/volcano.9fa67366.png": "./static/media/volcano.9fa67366.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.57d43ead.js",
-    "static/js/2.ef993c29.chunk.js",
-    "static/css/main.eb7a9660.chunk.css",
-    "static/js/main.746eaecd.chunk.js"
+    "static/js/runtime-main.af88b5ec.js",
+    "static/js/2.40faf8bb.chunk.js",
+    "static/css/main.2465090b.chunk.css",
+    "static/js/main.0cea8207.chunk.js"
   ]
 }
